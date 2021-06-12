@@ -38,7 +38,7 @@ export default function RowThree(){
                 <div className="col-lg-11 py-5 mx-auto">
                     <div className="row">
                         <div class="col-lg-4 col-md-6 mb-8 mb-lg-0 text-white">
-                            <h2 class="mt-3 mb-0">One Platform, Deep Insight Why Choose Bootsland</h2>
+                            <h2 class="mt-5 mb-0">One Platform, Deep Insight Why Choose Bootsland</h2>
                         </div>
                         {
                             createItem(
