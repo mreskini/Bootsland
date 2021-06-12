@@ -125,3 +125,11 @@ p{
   background-color: rgba(19, 96, 239, .1);
   color: #1360ef;
 }
+
+.top {
+  transform: rotate(180deg);
+}
+
+.bg-dark-bluish{
+  background-color: #060927;
+}
