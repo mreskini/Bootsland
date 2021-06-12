@@ -29,6 +29,9 @@ body {
 .fs-55{
   font-size: 55px !important;
 }
+.fs-45{
+  font-size: 45px !important;
+}
 .btn-primary-color, .btn-outline-primary-color{
   color: #fff !important;
   background-color: #1360ef !important;
@@ -116,4 +119,9 @@ p{
 .lead {
   font-size: 1.25rem !important;
   font-weight: 300 !important;
+}
+
+.badge-primary-soft {
+  background-color: rgba(19, 96, 239, .1);
+  color: #1360ef;
 }

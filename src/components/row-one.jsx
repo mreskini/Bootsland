@@ -1,7 +1,7 @@
 export default function RowOne(){
     return (
         <div className="container-fluid text-center">
-            <div className="row col-10 my-5 py-5 mx-auto">
+            <div className="row col-11 my-3 py-3 mx-auto">
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-4 mb-8 mb-lg-0">
                         <div class="px-4 py-7 rounded hover-translate bg-primary-soft">
