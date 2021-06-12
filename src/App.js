@@ -2,6 +2,7 @@ import Hero from "./components/hero";
 import RowOne from "./components/row-one";
 import RowTwo from "./components/row-two";
 import RowThree from "./components/row-three";
+import RowFour from "./components/row-four";
 function App() {
     return (
       <>
@@ -9,6 +10,7 @@ function App() {
         <RowOne />
         <RowTwo />
         <RowThree />
+        <RowFour />
       </>
     );
 }
