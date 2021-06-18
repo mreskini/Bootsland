@@ -12,7 +12,7 @@ export default function RowFour(){
                         We use the latest technologies it voluptatem accusantium doloremque laudantium, totam rem aperiam.
                     </p>
                     <div class="d-flex align-items-center">
-                        <img alt="PersonImage" src={person} class="shadow-primary img-fluid rounded-circle d-inline mr-3 w-25 p-3" />
+                        <img alt="PersonImage" src={person} class="shadow-primary img-fluid rounded-circle d-inline  mr-3 w-25 pr-4" />
                         <div>
                             <h5>
                                 Mohammad Eskini
