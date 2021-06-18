@@ -133,3 +133,9 @@ p{
 .bg-dark-bluish{
   background-color: #060927;
 }
+
+
+#header-logo {
+  width: 70%;
+  height: auto;
+}
