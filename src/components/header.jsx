@@ -1,5 +1,5 @@
 import image from "../images/logo.png"
-import { Navbar,Nav,NavDropdown,Form,FormControl,Button } from 'react-bootstrap'
+import { Navbar,Nav,NavDropdown,Button } from 'react-bootstrap'
 
 export default function  Header(){
     window.onscroll = () => {

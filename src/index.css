@@ -4,10 +4,12 @@
 }
 body {
   margin: 0;
-  font-family: 'Poppins', sans-serif !important;
   font-style: normal;
   transition: all 0.5s ease-in-out 0s;
   color: #1d1d33;
+}
+*{
+  font-family: "Lato" !important;
 }
 
 .text-primary-color{
