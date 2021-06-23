@@ -2,7 +2,7 @@ import img from "../images/hero-section-image.png"
 export default function Hero(){
     return (
         <div className="container-fluid">
-            <div className="row col-11 my-5 py-5 mx-auto">
+            <div className="row col-11 mt-2 py-5 mx-auto">
                 <div className="col-lg-6 pt-lg-5">
                     <p className="text-primary">
                         <span className="fs-14 bg-light-primary-color bold p-1 rounded">Ever Created For</span>
