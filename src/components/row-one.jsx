@@ -1,6 +1,6 @@
 export default function RowOne(){
     return (
-        <div className="container-fluid text-center">
+        <div className="container-fluid text-center bg-light pt-3">
             <div className="row col-11 my-3 py-3 mx-auto">
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-4 mb-8 mb-lg-0">
