@@ -145,3 +145,14 @@ p{
   width: 70%;
   height: auto;
 }
+
+.sticky {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+}
+
+.z-999{
+  z-index: 999 !important;
+}

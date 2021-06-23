@@ -2,8 +2,13 @@ import image from "../images/logo.png"
 import { Navbar,Nav,NavDropdown,Form,FormControl,Button } from 'react-bootstrap'
 
 export default function  Header(){
+    window.onscroll = () => {
+        let header = document.getElementById("header")
+        let sticky = header.offsetTop
+        window.pageYOffset > sticky ? (header.classList.add("sticky")) : (header.classList.remove("sticky"))
+    };
     return(
-        <div className="container-fluid mt-1">
+        <div className="container-fluid pt-1 bg-white z-999" id="header">
             <div className="col-11 mx-auto">
                 <Navbar variant="light" expand="lg" sticky="top">
                     <Navbar.Brand href="#home">
