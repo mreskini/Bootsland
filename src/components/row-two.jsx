@@ -4,7 +4,7 @@ export default function RowTwo(){
         <>
             <div className="container-fluid">
                 <div className="row col-11 my-3 py-3 mx-auto">
-                    <div className="col-lg-5">
+                    <div className="col-lg-5 mt-5 pt-5">
                         <img src={img} alt="hero-image" className="img-fluid" />
                     </div>
                     <div className="col-lg-1"></div>
