@@ -2,6 +2,11 @@
   --theme-primary-color: #1360EF;
   --theme-secondary-color: #F94F15;
 }
+
+html {
+  scroll-behavior: smooth !important;
+}
+
 body {
   margin: 0;
   font-style: normal;
@@ -157,4 +162,11 @@ p{
 
 .z-999{
   z-index: 999 !important;
+}
+
+.btn-to-top{
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  margin: 15px;
 }
