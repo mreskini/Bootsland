@@ -20,6 +20,9 @@ body {
 .text-primary-color{
   color: var(--theme-primary-color) !important;
 }
+.text-light-grey{
+  color: #8190B5 !important;
+}
 
 .normal{
   font-weight: normal !important;
@@ -38,6 +41,9 @@ body {
 }
 .fs-20{
   font-size: 20px !important;
+}
+.fs-25{
+  font-size: 25px !important;
 }
 .fs-55{
   font-size: 55px !important;
@@ -86,7 +92,6 @@ body {
 
 
 /* Decorations */
-          
 .col-xs-4 {
   color: white;
   font-size: 24px;
