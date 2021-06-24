@@ -2,8 +2,8 @@ import img from "../images/hero-section-image.png"
 export default function Hero(){
     return (
         <div className="container-fluid">
-            <div className="row col-11 mt-2 py-5 mx-auto">
-                <div className="col-lg-6 pt-lg-5">
+            <div className="row col-11 mx-auto">
+                <div className="col-lg-6 pt-lg-5 mt-lg-5">
                     <p className="text-primary">
                         <span className="fs-14 bg-light-primary-color bold p-1 rounded">Ever Created For</span>
                     </p>
@@ -26,7 +26,7 @@ export default function Hero(){
                     </div>
                 </div>
                 <div className="col-lg-6">
-                    <img src={img} alt="hero-image" className="img-fluid" />
+                    <img src={img} alt="hero-image" className="img-fluid pt-5" />
                 </div>
             </div>
         </div>
