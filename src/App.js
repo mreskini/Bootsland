@@ -5,6 +5,7 @@ import RowThree from "./components/row-three"
 import RowFour from "./components/row-four"
 import RowFive from "./components/row-five"
 import Header from "./components/header"
+import Blog from "./components/blog"
 import ScrollToTop from "./components/scroll-to-top"
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <RowThree />
         <RowFour />
         <RowFive />
+        <Blog />
         <ScrollToTop />
       </>
     );

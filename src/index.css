@@ -175,3 +175,16 @@ p{
   bottom: 0px;
   margin: 15px;
 }
+
+.shadow{
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.btn-light-grey{
+  color: #6c6c77 !important;
+  background-color: #e1e1e2 !important;
+}
+.btn-light-grey:hover{
+  background-color: #c6c7c9 !important;
+  color: #1D1D33 !important;
+}
